@@ -3,3 +3,5 @@ def position_taken(index)
   position = board[index]
   if position == " " || position == ""
     false
+  end
+end
